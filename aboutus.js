@@ -2,5 +2,3 @@
 
 // some text
 // some more text
-
-// add an image
