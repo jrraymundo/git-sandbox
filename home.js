@@ -2,5 +2,5 @@
 
 // navbar
 
-// <header>
+// <header> -- corrected a header text
 // <subheader>
